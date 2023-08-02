@@ -4,3 +4,9 @@ console object by two methods
 modify, add and delete property in an object
 
 create new object using "new" method - New "keyword"
+
+JSON - javascript object notation
+JSON.parse() //SYNTAX
+JSON.stringify() //syntax
+Nested JSON object
+Nested JSON Array
