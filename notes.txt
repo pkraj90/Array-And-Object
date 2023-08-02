@@ -1,0 +1,6 @@
+Delcare objects in Curve bracket
+console object by two methods
+(i) dot notation (2) Square bracket
+modify, add and delete property in an object
+
+create new object using "new" method - New "keyword"

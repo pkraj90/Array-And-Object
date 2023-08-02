@@ -17,10 +17,12 @@ console.log(A["Age"]);
 console.log(A["work"]);
 
 //Declare object using new method (object constructor)
-// const b = new Object();
-// b.name - "Prakash";
-// b.age - "35";
-// b.occupation -"Police"
+var b = new Object();
+b.name - "Prakash";
+b.age - "35";
+b.occupation -"Police"
+console.log(b);
+
 
 //modify or add objects or delete
 //1.dot notation
