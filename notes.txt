@@ -10,3 +10,15 @@ JSON.parse() //SYNTAX
 JSON.stringify() //syntax
 Nested JSON object
 Nested JSON Array
+
+Array & object destructuring
+nested object destructuring
+
+"use strict"
+
+object "this" method
+1."this" alone - referes to global object
+2.In regular function , refers to global object
+3.In a function in strict mode , "this" is undefined.
+4. In a method, "this" refers to the owner object.
+- console.log(`I love ❤ ${this.occupation}`) - `backtick is used`
